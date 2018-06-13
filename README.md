@@ -1,3 +1,3 @@
-# cnatb007
-This program is actully made for checking if a server is up or no.
-It is not it sends an email and notifies the person when the sever goes down
+# Downtime
+A Python Script which check whether a website is up or down and if the site is down 
+it informs you by sending a mail.
